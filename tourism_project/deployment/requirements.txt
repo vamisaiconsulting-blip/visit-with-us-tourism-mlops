@@ -1,0 +1,6 @@
+streamlit==1.38.0
+huggingface_hub==0.24.6
+scikit-learn==1.5.1
+pandas==2.2.2
+joblib==1.4.2
+xgboost==2.1.1
